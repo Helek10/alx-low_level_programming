@@ -1,4 +1,4 @@
-#ifndef MAIN_H_   /*Header File */
+#ifndef MAIN_H_   /* Include guard */
 
 #define MAIN_H_
 
