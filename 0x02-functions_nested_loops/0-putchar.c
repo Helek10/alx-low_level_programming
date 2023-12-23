@@ -9,7 +9,9 @@
 
 int main(void)
 {
-	_putchar('_putchar');
+	_putchar('_pu');
+	_putchar('tch');
+	_putchar('ar');
 	_putchar('\n');
 
 	return (0);
